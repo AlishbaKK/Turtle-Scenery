@@ -2,6 +2,7 @@
 The Turtle Graphics Scenery Designer is a Python-based program that leverages the turtle graphics module to create vibrant and interactive scenes. This program allows users to draw detailed landscapes, featuring cars and people, and provides insightful metrics such as car area and person height.
 # Live Demo
 <img src="Screenshot 2023-11-25 152458.png" alt="Live Demo" title="Live Demo">
+
 # Features
 **1) Car and Person Drawing:** Create visually appealing scenes with the ability to draw cars and people.
 **2) Dynamic Layout: ** The program ensures a dynamic layout, preventing overlap and maintaining a visually pleasing design.
